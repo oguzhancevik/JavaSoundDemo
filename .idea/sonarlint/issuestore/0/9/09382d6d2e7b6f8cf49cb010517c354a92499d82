@@ -1,0 +1,110 @@
+
+csquid:S2184›"FCast one of the operands of this multiplication operation to a "long".(â‘ËÖûÿÿÿÿ
+csquid:S2184"FCast one of the operands of this multiplication operation to a "long".(â‘ËÖûÿÿÿÿ
+Xsquid:S2184§"@Cast one of the operands of this integer division to a "double".(Şÿ 
+^squid:S2184¨"ACast one of the operands of this division operation to a "float".(‚ÆÃ“úÿÿÿÿ
+\squid:S2184³"DCast one of the operands of this subtraction operation to a "float".(™ûå‡
+bsquid:S2184´"ECast one of the operands of this subtraction operation to a "double".(¡’¡üÿÿÿÿ
+bsquid:S2184´"ECast one of the operands of this subtraction operation to a "double".(¡’¡üÿÿÿÿ
+Gsquid:EmptyStatementUsageCheck†"Remove this empty statement.(¬Ÿëà
+=squid:S1659D"&Declare "audioEOM" on a separate line.(¬üëÌ
+@squid:S1659M"$Declare "pauseB" on a separate line.(ŞÍ¡¹øÿÿÿÿ
+?squid:S1659M"#Declare "loopB" on a separate line.(ŞÍ¡¹øÿÿÿÿ
+?squid:S1659M"#Declare "prevB" on a separate line.(ŞÍ¡¹øÿÿÿÿ
+?squid:S1659M"#Declare "nextB" on a separate line.(ŞÍ¡¹øÿÿÿÿ
+Dsquid:S1659O"(Declare "gainSlider" on a separate line.(ƒéìóúÿÿÿÿ
+?squid:S1659""Declare "fm42" on a separate line.(·ÀÊÿÿÿÿÿ
+6squid:S1659š"Declare "y" on a separate line.(É¥Ó4
+:squid:S1659¤""Declare "incr" on a separate line.(í“ë¾
+<squid:S1659´"Declare "y" on a separate line.(¡’¡üÿÿÿÿ
+=squid:S1659´" Declare "ew" on a separate line.(¡’¡üÿÿÿÿ
+=squid:S1659´" Declare "eh" on a separate line.(¡’¡üÿÿÿÿ
+Osquid:S1197F"8Move the array designator from the variable to the type.(Ì Ê’
+Usquid:S1197"8Move the array designator from the variable to the type.(ÖãÊÿÿÿÿÿ
+Usquid:S1197¡"8Move the array designator from the variable to the type.(›Ë¨ùÿÿÿÿ
+Usquid:S1197ô"8Move the array designator from the variable to the type.(°Æ¯¤ıÿÿÿÿ
+Usquid:S1197ç"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+^squid:S1192å"FDefine a constant instead of duplicating this literal "Start" 3 times.(•½ø
+]squid:S1192æ"FDefine a constant instead of duplicating this literal "Pause" 6 times.(ûã¨p
+csquid:S1192ş"FDefine a constant instead of duplicating this literal "serif" 6 times.(ãø…¬üÿÿÿÿ
+^squid:S1192ö"FDefine a constant instead of duplicating this literal "South" 3 times.(Ô¥‚‚
+c$squid:AssignmentInSubExpressionChecka".Extract the assignment out of this expression.(È°ÔĞúÿÿÿÿ
+c$squid:AssignmentInSubExpressionChecka".Extract the assignment out of this expression.(È°ÔĞúÿÿÿÿ
+^$squid:AssignmentInSubExpressionCheckt".Extract the assignment out of this expression.(¼¾‘
+d$squid:AssignmentInSubExpressionCheck°".Extract the assignment out of this expression.(£ÑÈøÿÿÿÿ
+_$squid:AssignmentInSubExpressionCheck¡".Extract the assignment out of this expression.(“Å´Ó
+d$squid:AssignmentInSubExpressionCheck·".Extract the assignment out of this expression.(İû’³ÿÿÿÿÿ
+jsquid:S2095Î"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÿÜ¾ÿÿÿÿÿ
+hsquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+hsquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+U
+squid:S106»"9Replace this use of System.out or System.err by a logger.(ÇÿÖøÿÿÿÿ
+U
+squid:S106”"9Replace this use of System.out or System.err by a logger.(ÇÿÖøÿÿÿÿ
+U
+squid:S106Ş"9Replace this use of System.out or System.err by a logger.(ÂóÑ„úÿÿÿÿ
+P
+squid:S106ö"9Replace this use of System.out or System.err by a logger.(¡ˆ™
+U
+squid:S106ı"9Replace this use of System.out or System.err by a logger.(ÊëÜÉúÿÿÿÿ
+\squid:S2583ü"DChange this condition so that it does not always evaluate to "false"(¨²–š
+Esquid:S1125™"(Remove the literal "true" boolean value.(”Õ£Ğıÿÿÿÿ
+_squid:HiddenFieldCheckÇ"<Rename "duration" which hides the field declared at line 73.(îùßË
+Zsquid:HiddenFieldCheck½"7Rename "num" which hides the field declared at line 74.(¯Æ«’
+Osquid:S2589–"7Remove this expression which always evaluates to "true"(ÂîòÇ
+Tsquid:S2589Œ"7Remove this expression which always evaluates to "true"(úà úÿÿÿÿ
+1squid:S1220""Move this file to a named package.
+Esquid:S1905 "(Remove this unnecessary cast to "JMenu".(…ùğóşÿÿÿÿ
+@squid:S1905ª"(Remove this unnecessary cast to "JMenu".(øƒµŒ
+@squid:S1481š"(Remove this unused "dur" local variable.(Ê¦ï§
+Esquid:S1481"(Remove this unused "dur" local variable.(ñÑ¼¸ÿÿÿÿÿ
+isquid:S3776­"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ãšŞ
+osquid:S3776«"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ö¬Ñ­ùÿÿÿÿ
+osquid:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(¼ Òşüÿÿÿÿ
+jsquid:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¶øÂÁ
+osquid:S3776é"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¼ Òşüÿÿÿÿ
+Rsquid:S2209³"5Change this instance-reference to a static reference.(ä…Èşÿÿÿÿ
+Msquid:S2209º"5Change this instance-reference to a static reference.(§«¡â
+Rsquid:S2209¼"5Change this instance-reference to a static reference.(ä…Èşÿÿÿÿ
+Rsquid:S2209"5Change this instance-reference to a static reference.(úƒ¢İıÿÿÿÿ
+Rsquid:S2209¦"5Change this instance-reference to a static reference.(¾»¡“üÿÿÿÿ
+Msquid:S2209«"5Change this instance-reference to a static reference.(‡™±Ö
+Rsquid:S2209Ş"5Change this instance-reference to a static reference.(Œœ³Åşÿÿÿÿ
+8squid:S1170>"!Make this final field static too.(ÄÑÓ¤
+Bsquid:S00108º")Either remove or fill this block of code.(§«¡â
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨Ìœ­ûÿÿÿÿ
+Osquid:S1854š"7Remove this useless assignment to local variable "dur".(Ê¦ï§
+Tsquid:S1854"7Remove this useless assignment to local variable "dur".(ñÑ¼¸ÿÿÿÿÿ
+Tsquid:UselessImportCheck-"0Remove this unused import 'java.io.InputStream'.(¹»º
+?squid:S1148r"#Use a logger to log this exception.(ÏßÄ¹üÿÿÿÿ
+;squid:S1148¾"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148Ñ"#Use a logger to log this exception.(şìÓ’
+;squid:S1148…"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148˜"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148·"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148Í"#Use a logger to log this exception.(Ç’Çê
+;squid:S1148†"#Use a logger to log this exception.(¬Ÿëà
+|squid:S1149A"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÌÛÉ·
+}squid:S1149õ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ìò¬µ
+}squid:S1149õ"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ìò¬µ
+?squid:S1948B"(Make "thread" transient or serializable.(óÍİŠ
+Bsquid:S1948C"+Make "sequencer" transient or serializable.(¸¨é»
+Csquid:S1948E"-Make "synthesizer" transient or serializable.(éÖæ;
+Asquid:S1948F"*Make "channels" transient or serializable.(Ì Ê’
+Jsquid:S1948G".Make "currentSound" transient or serializable.(šúŸêúÿÿÿÿ
+Esquid:S1948R")Make "loading" transient or serializable.(Îİúáÿÿÿÿÿ
+?squid:S1948S")Make "credits" transient or serializable.(ìÓÉ
+Gsquid:S1948ú"*Make "pbThread" transient or serializable.(Êâ€¹øÿÿÿÿ
+Hsquid:S1948í"+Make "dataModel" transient or serializable.(İ½Ìõøÿÿÿÿ
+Rsquid:S1161ˆ":Add the "@Override" annotation above this method signature(¶øÂÁ
+Rsquid:S1161ˆ":Add the "@Override" annotation above this method signature(Î¹ŞÅ
+Rsquid:S1161‰":Add the "@Override" annotation above this method signature(Ïø–©
+Rsquid:S1161Œ":Add the "@Override" annotation above this method signature(„Üº‰
+Wsquid:S1161":Add the "@Override" annotation above this method signature(¨Ìœ­ûÿÿÿÿ
+Rsquid:S1161¦":Add the "@Override" annotation above this method signature(“–ış
+Rsquid:S1161Ë":Add the "@Override" annotation above this method signature(“–ış
+Rsquid:S1161í":Add the "@Override" annotation above this method signature(ÀÂ¬‚
+Wsquid:S1161î":Add the "@Override" annotation above this method signature(›ĞêÕûÿÿÿÿ
+9squid:S2129ı"!Remove this "Integer" constructor(ÛÏåÂ
+Vsquid:S1155å">Use isEmpty() to check whether the collection is empty or not.(•½ø
+Vsquid:S1155”">Use isEmpty() to check whether the collection is empty or not.(Ô¼Ÿ‰

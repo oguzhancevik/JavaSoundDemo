@@ -1,0 +1,23 @@
+
+Xsquid:S2184 "@Cast one of the operands of this integer division to a "double".(ìĞº›
+Xsquid:S2184¢"@Cast one of the operands of this integer division to a "double".(¤÷ÙÏ
+]squid:S2184£"@Cast one of the operands of this integer division to a "double".(÷‘ËŞÿÿÿÿÿ
+U"squid:SwitchLastCaseIsDefaultCheck?""Add a default case to this switch.(ÁêŠ“ıÿÿÿÿ
+>squid:S1659Ä"!Declare "dot" on a separate line.(Åç¯úÿÿÿÿ
+?squid:S1659Ä""Declare "path" on a separate line.(Åç¯úÿÿÿÿ
+Psquid:S1197Í"8Move the array designator from the variable to the type.(ÈšÉ÷
+gsquid:S1301?"KReplace this "switch" statement by "if" statements to increase readability.(ÁêŠ“ıÿÿÿÿ
+1squid:S1220""Move this file to a named package.
+{squid:S11492"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(óÕÔ^
+|squid:S1149;"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¬İÔ·
+|squid:S1149F"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ìò¬µ
+|squid:S1149P"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÕŠŸÃ
+Esquid:S19481")Make "ellipse" transient or serializable.(ÕéÎ´üÿÿÿÿ
+Dsquid:S19483"-Make "currentData" transient or serializable.(ƒØî
+Bsquid:S19484"+Make "sequencer" transient or serializable.(×¥­İ
+Vsquid:S1161g":Add the "@Override" annotation above this method signature(÷ÌÜµıÿÿÿÿ
+Vsquid:S1161j":Add the "@Override" annotation above this method signature(«â–ùÿÿÿÿ
+Rsquid:S1161˜":Add the "@Override" annotation above this method signature(¶øÂÁ
+Wsquid:S1161·":Add the "@Override" annotation above this method signature(Ú„ÎÕşÿÿÿÿ
+Wsquid:S1161»":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ
+Rsquid:S1161Ğ":Add the "@Override" annotation above this method signature(ÀÂ¬‚

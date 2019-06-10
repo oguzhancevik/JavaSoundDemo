@@ -1,0 +1,46 @@
+
+]squid:S2184û"@Cast one of the operands of this addition operation to a "long".(«Á×şÿÿÿÿ
+8squid:S1659N"!Declare "col" on a separate line.(ãÜòœ
+:squid:S1659O"$Declare "startB" on a separate line.(šô€l
+8squid:S1659˜" Declare "id" on a separate line.(î§€É
+;squid:S1659˜"#Declare "staff" on a separate line.(î§€É
+Tsquid:S1197Q"8Move the array designator from the variable to the type.(û†Ç¢úÿÿÿÿ
+Psquid:S1197Ÿ"8Move the array designator from the variable to the type.(ÜÔ³µ
+Psquid:S1197¬"8Move the array designator from the variable to the type.(¼¸´
+Usquid:S1197»"8Move the array designator from the variable to the type.(œˆÑòüÿÿÿÿ
+Psquid:S1197˜"8Move the array designator from the variable to the type.(î§€É
+Usquid:S1197£"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+^squid:S1192¿"FDefine a constant instead of duplicating this literal "Start" 4 times.(†ıìÚ
+_$squid:AssignmentInSubExpressionCheck¿".Extract the assignment out of this expression.(†ıìÚ
+d$squid:AssignmentInSubExpressionCheckÀ".Extract the assignment out of this expression.(†ûÔ–ıÿÿÿÿ
+Esquid:S1125")Remove the literal "false" boolean value.(çÖúÿÿÿÿ
+Zsquid:HiddenFieldCheck”"7Rename "col" which hides the field declared at line 78.(İİùĞ
+1squid:S1220""Move this file to a named package.
+nsquid:S3776a"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ÿ†Êøÿÿÿÿ
+isquid:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(”×¹e
+osquid:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¼ Òşüÿÿÿÿ
+Zsquid:CallToDeprecatedMethod°",Remove this use of "show"; it is deprecated.(»Ã¦ùøÿÿÿÿ
+=squid:S1170E"!Make this final field static too.(õª¾éÿÿÿÿÿ
+8squid:S1170F"!Make this final field static too.(İ±ø
+7squid:S1170G"!Make this final field static too.(óèA
+^squid:S2259ô"FA "NullPointerException" could be thrown; "sequence" is nullable here.(È”œ©
+@squid:S1604š"(Make this anonymous inner class a lambda(˜”Ê¸
+@squid:S1604¥"(Make this anonymous inner class a lambda(˜”Ê¸
+osquid:S00116E"RRename this field "PROGRAM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õª¾éÿÿÿÿÿ
+isquid:S00116F"QRename this field "NOTEON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ±ø
+isquid:S00116G"RRename this field "NOTEOFF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óèA
+@squid:S1148Ö"#Use a logger to log this exception.(¢ò¨½şÿÿÿÿ
+@squid:S1148ó"#Use a logger to log this exception.(ĞÖ±üÿÿÿÿ
+@squid:S1148…"#Use a logger to log this exception.(ĞÖ±üÿÿÿÿ
+@squid:S1148á"#Use a logger to log this exception.(ĞÖ±üÿÿÿÿ
+squid:S1149^"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¤âÂ™ùÿÿÿÿ
+Bsquid:S1948J"+Make "sequencer" transient or serializable.(¸¨é»
+>squid:S1948K"'Make "track" transient or serializable.(­ŠƒÊ
+Gsquid:S1948L"+Make "dataModel" transient or serializable.(İ½Ìõøÿÿÿÿ
+Qsquid:S1161z":Add the "@Override" annotation above this method signature(Î¹ŞÅ
+Qsquid:S1161{":Add the "@Override" annotation above this method signature(Ïø–©
+Qsquid:S1161~":Add the "@Override" annotation above this method signature(„Üº‰
+Wsquid:S1161":Add the "@Override" annotation above this method signature(¨Ìœ­ûÿÿÿÿ
+Rsquid:S1161‹":Add the "@Override" annotation above this method signature(É…§ì
+Rsquid:S1161§":Add the "@Override" annotation above this method signature(ÀÂ¬‚
+ksquid:MaximumInheritanceDepthŠ"<This class has 6 parents which is greater than 5 authorized.(ÈüÍ›üÿÿÿÿ
