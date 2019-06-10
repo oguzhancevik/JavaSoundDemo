@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JavaSoundDemo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JavaSoundDemo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
